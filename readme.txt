@@ -10,7 +10,7 @@ Hope you will enjoy!!
 Happy jenkins
 Trying to implement github webhook !!!!!!
 
-Trying to implement poll SCM
+Implementing Poll SCM
 
 Trying to implement github hook trigger
 
