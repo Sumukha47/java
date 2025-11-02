@@ -32,7 +32,7 @@ public class Test {
     public static void main(String[] args) {
         int x = 589;
         int y = 100;
-	System.out.println("Hii , I am Tapash");
+	System.out.println("Hii , I am Tapash Ranjan Nandi");
 	System.out.println("Result are :");
         add(x, y);
         sub(x, y);
