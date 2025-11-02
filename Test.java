@@ -33,7 +33,7 @@ public class Test {
         int x = 589;
         int y = 10;
 	System.out.println("Hii , I am Tapash");
-	System.out.println("Result are :")
+	System.out.println("Result are :");
         add(x, y);
         sub(x, y);
         mul(x, y);
